@@ -12,5 +12,10 @@ public class App {
     System.out.println("Change 4");
     System.out.println("Change 4.1");
     System.out.println("Ivo");
+    System.out.println("Ivo2");
+  }
+  
+  public void doNotPutAllOfYourCodeInSingleMethod() {
+    // write something usefull with proper naming of variables
   }
 }
