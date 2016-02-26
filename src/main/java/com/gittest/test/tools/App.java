@@ -20,5 +20,6 @@ public class App {
   public void doNotPutAllOfYourCodeInSingleMethod() {
     // write something usefull with proper naming of variables
     System.out.println("Dean");
+	  System.out.println("NK1");
   }
 }
